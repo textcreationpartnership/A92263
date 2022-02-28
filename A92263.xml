@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the consideration of the Lords spiritual and temporal on behalf of the bill to restrain the wearing of East-India and Persia wrought silks, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92263</idno>
+            <idno type="STC">Wing R555</idno>
+            <idno type="STC">ESTC R182476</idno>
+            <idno type="EEBO-CITATION">45504513</idno>
+            <idno type="OCLC">ocm 45504513</idno>
+            <idno type="VID">171828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the consideration of the Lords spiritual and temporal on behalf of the bill to restrain the wearing of East-India and Persia wrought silks, &amp;c.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nontariff trade barriers --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Silk industry --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:171828:1" rendition="simple:additions"/>
+            <head>REASONS HUMBLY OFFERED <hi>To the Conſideration of the Lords Spiritual and Temporal,</hi> On Behalf of the BILL to Reſtrain the VVearing of Eaſt-India and Perſia VVrought Silks, &amp;c.</head>
+            <p>THAT the Advocates for the <hi>East-India</hi> Company rather blind and amuſe the Matter controverted, than explain it; for the Diſpute is not with or againſt the Trade in gene<g ref="char:EOLhyphen"/>ral, but that Branch only which is certainly deſtructive to <hi>England</hi> in the Value of its Land, Productions, Manufacto<g ref="char:EOLhyphen"/>ries, Navigations, Land-carriages, and to the extream Diſ<g ref="char:EOLhyphen"/>peopling thereof. All which we have and can make good.</p>
+            <p>
+               <hi>England</hi>'s own Productions, is the Foundation of all its Wealth, Naviga<g ref="char:EOLhyphen"/>tion and Merchandize; and the due Improvement thereof, eſpecially in the Wooll, is what ought to be principally regarded and promoted; and the Packs in the Honourable Houſe of Lords beſpeak no leſs.</p>
+            <p>That <hi>England</hi> had never recovered the Miſchiefs former great Importations of <hi>India</hi> wrought Silks brought upon us, had we not been beholden to the Invention of Worſted Crapes, which for ſeveral Years was a univerſal Faſhion, and cut out the <hi>East-India</hi> Goods and recovered the Trade for Wooll, when many Growers thereof at that firſt Invention, having Six, Eight, ſome Ten Years Wooll before hand; and it did likewiſe greatly increaſe the Trade in Number, that now want Employment both at <hi>London</hi> and other Parts.</p>
+            <p>That Engliſh Wooll being firſt Improved by Manufactory in ſeveral Counties and Towns, and afterwards by Navigation and Merchandize to <hi>Spain</hi> and <hi>Italy,</hi> brings home unwrought Silks and Spaniſh Wooll, for the Employment both of Silk Weavers and Clothiers; which Spaniſh Wooll is again, with our own, Manufactured and Exported to <hi>Turky</hi> and other Parts, and the principal <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s thereof are raw Silk, and Grograin and Cotten Yarn, Unmanufactured; which again Employes Multitudes of People, that, as well as the former, live and conſume the Productions of our own Lands.</p>
+            <p>That the paſſing this Bill into a Law, will in a few Years greatly increaſe our numbers of People in this Kingdom, and will ſo invigorate the Minds of all Fabricators both in Silk, Wooll, and Grograin Yarn, that have any thing of Stock or Credit by Faith and Hope, to contend with all other Diſadvantages, tho' Mony ſhould be as ſcarce as at preſent; whereas the contrary will diſcou<g ref="char:EOLhyphen"/>rage (thoſe of great Ability) to that degree, that the Out-Pariſhes of <hi>London, Tower-Hamblets,</hi> and all the Wooll Manufacturing Towns in <hi>England,</hi> will not be able to ſupport their Poor.</p>
+            <p>That <hi>East-India</hi> wrought Silks, <hi>&amp;c.</hi> is Deſtructive to all the before menti<g ref="char:EOLhyphen"/>oned Advantages, to the Diſpeopling of the Kingdom.</p>
+            <p>That nothing is ſo great and unnatural a force upon Trade, as ſending our Woollen Manufactures to <hi>East-India,</hi> in regard they are not worn there, but ſent to <hi>Perſia;</hi> to the extream prejudice of our <hi>Turky</hi> Merchants and that Trade. So that the Conſumption of Woollen Manufactories is not increaſed thereby.</p>
+            <p>That the more wrought Silks comes from <hi>East-India,</hi> the leſs raw Silk doth come both from <hi>India</hi> and <hi>Turky;</hi> and nothing is ſo valuable an Exchange for our Gold and Silver as raw Silk.</p>
+            <p>That the paſſing this Bill will give the <hi>Eaſt-India</hi> Trade either to the Scotch or Dutch, is ſo Frivolous as deſerves no Anſwer, for it muſt produce the quite contrary Effect.</p>
+            <p>That our Entertainment of ſo many thouſand Strangers argues a neceſſity for paſſing the Bill, unleſs we intend to maintain them without Working, or Starve them.</p>
+            <p>That whatever Reaſons induced the French King to part with his Weaving Subjects, 'tis plain, that whilſt he had them, he took great Care for their Preſervation; for by his <hi>Edict</hi> 26th of <hi>October</hi> 1686. He not only Prohi<g ref="char:EOLhyphen"/>bited the Wearing all ſorts of <hi>East-India</hi> Silks and Callicoes; but likewiſe un<g ref="char:EOLhyphen"/>der a ſevere Mulct, forbid the Imitation of figured and flowered Silks, by Printing or Staining any thing in likeneſs thereof, and under the ſame Penalty commanded all them Prints and Tools for ſo doing, to be utterly demolliſhed, and never to be made again. By which tis plain that King had another Opinion of this Trade and People, then the <hi>East-India</hi> Doctor, that in his Su<g ref="char:EOLhyphen"/>perfine Spun Linſe-woollſe Diſcourſe would render it otherwiſe to us.</p>
+            <p>That part of the Act for Navigation looks ſtrangely Unreaſonable if this Bill deſerves not to Paſs, when for the ſake and profit only of Throwing and Dying of Silk, 'tis prohibited ſo to be brought both from <hi>East-India</hi> and ſeveral other Parts, for the Weaving part thereof is at leaſt four times the Va<g ref="char:EOLhyphen"/>lue to <hi>England</hi> than both Dying and Throwing is.</p>
+            <p>That Manufacturing of Silk is as Reaſonable and as Natural, and no more For<g ref="char:EOLhyphen"/>reign to <hi>England</hi> than to <hi>France, Holland</hi> or <hi>Flanders,</hi> tho' of later attainment; and it being ſo greatly beneficial (as it certainly is) deſerves and requires to be the more tenderly Cheriſht and Supported.</p>
+            <p>That at the price Proviſions ſell in <hi>England,</hi> 'tis impoſſible for Engliſh Ma<g ref="char:EOLhyphen"/>nufacturers, either Clothiers, Silk Weavers or Silk Throwſters, to work Chea<g ref="char:EOLhyphen"/>per then they do.</p>
+            <p>That 'tis the Intereſt of all Fabricators, to Work and Sell as Cheap as they can Afford, and Trade will in that Caſe certainly adjuſt it ſelf, and they that do not will Suffer for it: But we believe not, that our Noble Anceſtors plac'd the Wooll-packs juſt under the Throne, to make Wooll as little worth as it poſſibly could.</p>
+            <p>That neither <hi>Italian, French,</hi> or <hi>Dutch</hi> Silks can prejudice us in our Trades, ſo much as <hi>India</hi> Silks will and does, we Working upon more equal Terms with them.</p>
+            <p>That Paſſing this Bill may occaſion the <hi>East-India</hi> Company to Import the more <hi>China</hi> and <hi>Bengal</hi> raw Silks and Cotten Yarn, to the greater Employ<g ref="char:EOLhyphen"/>ment of Shipping and our Manufacturers, which the other will deſtroy.</p>
+            <p>That the Great Mogul will be no more diſpleaſed at this, than the Great Turk was, when thoſe Merchants left bringing over <hi>Turky</hi> Manufactured Silk, Hair Grograins and Tammies (which in our Memory were the general Wear of our Grandmothers and Mothers) and now inſtead thereof import us only raw Silk Grograin and Cotten Yarn to <hi>Englands</hi> great Advantage.</p>
+            <p>That what is commonly called <hi>Eaſt-India</hi> Silk, the principal Subſtance with which it is made, is their fine Cotton-Yarn, of which ſort of Yarn the Com<g ref="char:EOLhyphen"/>pany never brought much, if any unwrought; and it being ſofter in feeling than our Engliſh Worſted, better gratifies the Fancies of our nice Females. And ex<g ref="char:EOLhyphen"/>cept in that reſpect, our Grazetts and Autherines are as good a wear as they, if made to the Value. And theſe <hi>India</hi> Silks, are by the Draper or Mercer, ſold as dear, or dearer than Engliſh Silks or Stuffs.</p>
+            <p>That skilful Seamen are made by our <hi>Newcaſtle</hi> and Coaſting Trade, in ſuch ſmall Veſſels as are continually plying, to ſerve our numerous Manufacturers with Coals, Corn, Butter and Cheeſe and other Neceſſaries, whilſt Trading to <hi>India,</hi> conſumes them more than in an ordinary manner; and if it be for the ſake of their bringing wrought Silks, they'll dye in a bad Cauſe; for in reſpect to Navigation, raw Silk from <hi>Turkey,</hi> is five times more bulky than wrought from <hi>India.</hi>
+            </p>
+            <p>That if for the gain of the <hi>Eaſt-India</hi> Company, our Manufactures muſt be deſtroyed, or work at their Prices, that have all the Neceſſaries for Life, ſix times as cheap as <hi>England</hi> can afford, and want neither Cloaths nor Fuel; the va<g ref="char:EOLhyphen"/>lue of Land, and all its Productions and Rents, muſt ſink anſwerably thereto.</p>
+            <p>That we cannot believe, that good Policy for <hi>England</hi> which is for <hi>Holland,</hi> they living in a ſmall ſpot of Ground, are obliged in reaſon to leave Trade more free, and lay their Taxes on the Conſumers only: But we that are bleſt with a large Tract of fruitful Land, rich Mines, productive and laborious Cattle, con<g ref="char:EOLhyphen"/>venient Ports and Navigable Rivers, muſt with the Manufacturing our own Productions improve our Land, by feeding our People, ſupport our Trade, Traf<g ref="char:EOLhyphen"/>fick, Navigation and Land-Carriage, and by all Lawful ways encreaſe our People; and if for the ſake of any one of theſe, the others are prejudiced, the Publick muſt ſuffer Diminution thereby; but if in Conjunction all are Advanced, this, and this only, will procure a healthful Conſtitution in the Body Politick; and when the other parts of the World can agree on a free Trade, it will be time for us to conſider; and till then, make the beſt Im<g ref="char:EOLhyphen"/>provement of the Bleſſings of Almighty God.</p>
+            <p>That the Sentiments of that great Member of the <hi>Eaſt-India</hi> Company, Sir <hi>Joſiah Child,</hi> may judge betwixt us in the 43d Page of his Diſcourſe concerning Trade, ſays, That whatſoever advances the value of Land in purchaſe,
+<list>
+                  <item>That improves the Rent of Farmes,</item>
+                  <item>That encreaſeth the bulk of Foreign Trade,</item>
+                  <item>That multiplies Domeſtick Artificers,</item>
+                  <item>That inclines the Nation to Thriftineſs,</item>
+                  <item>That employs the Poor,</item>
+                  <item>That encreaſeth the ſtock of the People, muſt be procuring Cauſes of Riches.</item>
+               </list>
+            </p>
+            <p>We ſhall conclude with the undeniable Maxim, of the ſaid Sir <hi>Joſiah,</hi> which he lays down in his Preface to the ſaid Book.</p>
+            <p>That a Foreign Expence, eſpecially of Foreign Manufactures, is the worſt Expence a Nation can be inclinable too, and ought to be prevented as much as poſſibly.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
